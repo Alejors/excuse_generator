@@ -1,1 +1,11 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: black;
+}
+h1 {
+  color: white;
+  text-shadow: silver 1px 1px;
+}
+#separacion {
+  margin-top: 40vh;
+}
